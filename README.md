@@ -7,8 +7,6 @@ I'm Mauricio Lima, graduated in Computer Science and Internet Systems, I'm a sof
 
 ## Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ccf89b6c-e592-4ea2-94be-4367040e8a2b" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-
 [![AWS Developer Associate](https://images.youracclaim.com/size/110x110/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png)](https://www.youracclaim.com/badges/ccf89b6c-e592-4ea2-94be-4367040e8a2b/public_url)
 
 
