@@ -1,7 +1,8 @@
 # Mauricio Lima
 ### Hi there 👋
 
-## ⚡ Fun fact:
+## ⚡ Technologies:
+- 🔭 I’m currently working on ...
 <!--
 **mauriciolimas/mauriciolimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
