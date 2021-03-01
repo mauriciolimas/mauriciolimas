@@ -11,7 +11,7 @@ I'm Mauricio Lima, graduated in Computer Science and Internet Systems, I'm a sof
 
 
 
-## Technologies:
+## Technologies
 
 These are some of the technologies and tools that I work with:
 
