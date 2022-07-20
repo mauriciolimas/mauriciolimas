@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mauricio Lima, graduated in Computer Science and Internet Systems, I'm a software developer at [ST IT Data](https://www.stitdata.com) and I've been working with technology since 2017.
+I'm Mauricio Lima, graduated in Computer Science and Internet Systems, I'm a software developer, and I've been working with technology since 2017.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mauriciolimas)](https://github.com/mauriciolimas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauricio-lima-silva-546041141)](https://www.linkedin.com/in/mauricio-lima-silva-546041141)
